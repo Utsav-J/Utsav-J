@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utsav-J)](https://github.com/anuraghazra/github-readme-stats)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@Utsav-J" frameborder="0"></iframe>
