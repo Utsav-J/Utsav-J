@@ -1,6 +1,8 @@
 ![Intro](https://github.com/Utsav-J/Utsav-J/blob/main/download.png)
 # 💫 About Me:
-
+Hey there! I'm a passionate App Developer and Programmer with a love for building meaningful, user-centric applications. 
+Currently in my 3rd year at SRM Institute of Science and Technology, I'm constantly exploring the intersection of technology and creativity.
+Beyond code, I'm a Guitarist and Singer, always looking for ways to blend music and tech into something expressive and impactful.
 
 
 ## 🌐 Socials:
