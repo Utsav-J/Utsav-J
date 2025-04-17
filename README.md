@@ -1,4 +1,5 @@
-![Intro](https://github.com/Utsav-J/Utsav-J/blob/main/download.png)
+![Utsav Jaiswal](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Utsav%20Jaiswal%20&fontAlign=53&fontAlignY=51&animation=twinkling&desc=Full%20Stack%20App%20Developer&descAlign=79&descAlignY=64&fontColor=ffffff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=21&pause=250&color=F7C2F5&background=8BFFEC00&center=true&vCenter=true&width=435&lines=I+develop+user-centric+Flutter+apps;I+create+GenAI+solutions;I+make+good+music;)](https://git.io/typing-svg)
 # 💫 About Me:
 Hey there! I'm a passionate App Developer and Programmer with a love for building meaningful, user-centric applications. 
 Currently in my 3rd year at SRM Institute of Science and Technology, I'm constantly exploring the intersection of technology and creativity.
